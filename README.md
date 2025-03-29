@@ -1,4 +1,3 @@
-# proyect1
 # Proyecto de Análisis de Datos de Vehículos
 
 Este proyecto presenta una aplicación web desarrollada con **Streamlit** que permite generar un análisis exploratorio de datos de vehículos. La aplicación utiliza el conjunto de datos de anuncios de vehículos (vehicles_us.csv) y permite generar un **histograma** de la columna "odometer" y un **gráfico de dispersión** entre el odómetro y el precio del vehículo.
