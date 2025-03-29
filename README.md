@@ -7,12 +7,16 @@ Este proyecto presenta una aplicación web desarrollada con **Streamlit** que pe
 - **Gráfico de dispersión**: Al marcar la casilla de verificación, se construye un gráfico de dispersión que muestra la relación entre "odometer" y "price".
 
 ## Requisitos:
-- **pandas**
-- **plotly**
-- **streamlit**
+- **Pandas**
+- **Plotly**
+- **Streamlit**
 
 ## Cómo ejecutar:
 1. Clona el repositorio.
 2. Crea un entorno virtual y activa el entorno.
 3. Instala las dependencias: `pip install -r requirements.txt`.
 4. Ejecuta la aplicación: `streamlit run app.py`.
+
+# Resultado
+Puedes ver la aplicación en acción aquí: 
+https://proyect1-y38x.onrender.com
