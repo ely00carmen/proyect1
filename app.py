@@ -3,9 +3,9 @@ import plotly.express as px
 import streamlit as st
 import streamlit as st
 
-st.header('Gráficas')
+st.header('App para ver gráficas de coches usados en EE.UU.')
 
-st.write('Esta aplicación aún no es funcional. En construcción.')
+st.write('Esta aplicación permite visualizar gráficas de coches usados en EE.UU.')
 
 car_data = pd.read_csv('vehicles_us.csv') # leer los datos
 
